@@ -9,3 +9,4 @@ function elevation() {
 }
 
 export { trees, wildlife };
+//export default elevation;
